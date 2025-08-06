@@ -1,0 +1,41 @@
+.frame{
+    border: 0.2px solid gray;
+    border-radius: 1rem;
+    width: 18rem;
+   padding-bottom: 0.5rem;
+   padding-top: 0.5rem;
+   padding-left: 0.5rem;
+   padding-right: 0.5rem;
+   background-color: black;
+}
+.butt{
+    color: white;
+    
+     padding-left: 1rem;
+     border-radius: 0.8rem;
+}
+.btn{
+    width: 5rem;
+    height: 3rem;
+    margin: 0.2rem;
+}
+.btn:hover{
+    background-color: black;
+    color: white;
+}
+.kioo{
+    height: 4rem;
+}
+.kioo2{
+    height: 2.5rem;
+    border-radius: 0.6rem;
+    width: 16rem;
+    margin: 0.5rem;
+}
+body{
+margin-top: 7rem;
+margin-left: 45em;
+}
+.name{
+    margin-left: 4rem;
+}
